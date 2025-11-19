@@ -11,6 +11,8 @@
 
 <br>
 
+## DE
+
 ### 🧩 **Überblick**
 
 Die *Anonymous IRC Console* bietet eine professionelle Mehridentitätsumgebung für IRC.  
@@ -78,6 +80,8 @@ BYLICKILABS übernimmt keine Haftung für unautorisierte Nutzung.
 ---
 
 <br>
+
+## EN
 
 ### 🧩 **Overview**
 > The *Anonymous IRC Console* is a secure dual-identity communication client for IRC analysts and operators.  
