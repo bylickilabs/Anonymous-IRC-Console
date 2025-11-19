@@ -162,6 +162,7 @@ Use responsibly within your organization’s security policies.
 
 ## 🧾 Project Information
 
+```yarn
 Name: Anonymous IRC Console
 Version: 1.0.0
 Developer: © Thorsten Bylicki | © BYLICKILABS
@@ -169,5 +170,6 @@ License: MIT License
 Language: Python 3.x
 GUI Framework: Tkinter
 Target Platforms: Windows / Linux / macOS
+```
 
 [LICENSE](LICENSE)
