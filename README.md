@@ -160,14 +160,14 @@ Use responsibly within your organization’s security policies.
 
 <br>
 
-## 🧾 **Projectinformation**
+## 🧾 Project Information
 
-**Name:** Anonymous IRC Console  
-**Version:** 1.0.0  
-**Entwickler:** ©Thorsten Bylicki | ©BYLICKILABS  
-**Lizenz:** MIT License  
-**Sprache:** Python 3.x  
-**GUI:** Tkinter  
-**Zielplattformen:** Windows / Linux / macOS
+Name: Anonymous IRC Console
+Version: 1.0.0
+Developer: © Thorsten Bylicki | © BYLICKILABS
+License: MIT License
+Language: Python 3.x
+GUI Framework: Tkinter
+Target Platforms: Windows / Linux / macOS
 
 [LICENSE](LICENSE)
