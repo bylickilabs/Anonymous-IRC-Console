@@ -1,5 +1,5 @@
 
-### 🕶️ Anonymous IRC Console — Dual Identity Operator Client (DE(EN README)
+### 🕶️ Anonymous IRC Console — Dual Identity Operator Client (DE/EN README)
 
 > Ein sicheres, plattformübergreifendes IRC-Kommunikationstool für Analysten, Operatoren und Sicherheitsforscher.
   - Diese Anwendung ermöglicht zwei gleichzeitige IRC-Identitäten in einer einzigen Oberfläche 
