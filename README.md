@@ -169,3 +169,5 @@ Use responsibly within your organization’s security policies.
 **Sprache:** Python 3.x  
 **GUI:** Tkinter  
 **Zielplattformen:** Windows / Linux / macOS
+
+[LICENSE](LICENSE)
